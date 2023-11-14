@@ -7,13 +7,14 @@ I want to see an estimate of reading time for a text, assuming that I can read 2
 
 2-Design the function signature
 
+```python
 def estimate_reading_time(text):
     #paramenter:
 #    size of a string 
     #return
 # average of time to read a text eg 10 minutes for 2000 words 
 pass 
-
+```
 
 
 3-Create examples as test
